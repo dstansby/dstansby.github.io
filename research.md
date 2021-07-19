@@ -32,6 +32,11 @@ slides or posters.
  </tr>
 
  <tr>
+  <td>19/07/2021</td>
+  <td><a href="talks/20210719NAM.pdf">How much solar wind comes from active regions?</a></td>
+  <td>National Astronomy Meeting</td>
+ </tr>
+ <tr>
   <td>27/04/2021</td>
   <td><a href="talks/20210427PSPscholars.pdf">Sensitivity of solar wind mass flux to coronal temperature</a></td>
   <td>1st Parker Solar Probe Scholars meeting</td>
