@@ -1,0 +1,10 @@
+When I was an active researcher in solar physics, I developed a number of
+useful tools and resources for working with the Solar Orbiter and
+Parker Solar Probe missions:
+
+- **[Solar Orbiter Data Availability](https://www.davidstansby.com/soda/)**
+  - An online tool for checking which data products are available for given dates.
+- **Magnetic connection predictions**
+  - A set of movies predicting magnetic structure of the Sun, and which bits were connected to SO and PSP. This is no longer maintained.
+- **Orbit movies**
+  - A set of movies showing where the missions were and will be in the future. No longer maintained, but the movies last until 2025 so are still useful!
