@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Walks
+title: Walking
 ---
 I enjoy walking, especially linking up multiple days on long distance trails.
 I've walked:
