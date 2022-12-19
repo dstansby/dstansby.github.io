@@ -14,7 +14,7 @@ I've walked:
 
 I'm currently walking:
 - The Thames Path (currently completed from the Thames Barrier to Oxford)
-- The South West Coast Path (almost completed the whole South coast)
+- The South West Coast Path (currently completed anticlockwise from Bournemouth to St Ives)
 
 Eventually I'd like to keep going on the coast path and walk around the border
 of England, linking up the coast with the Offa's Dyke Path along the Welsh
