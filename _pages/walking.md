@@ -21,5 +21,5 @@ of England, linking up the coast with the Offa's Dyke Path along the Welsh
 border and Hadrian's Wall along (almost) the Scottish border. Here's my progress so
 far:
 
-<iframe src="http://www.davidstansby.com/coast-path/" height="350px" width="100%" style="border:none;"></iframe>
+<iframe src="https://www.davidstansby.com/coast-path/" height="350px" width="100%" style="border:none;"></iframe>
 (zoom with mouse wheel, click and drag to pan)
