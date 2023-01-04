@@ -3,7 +3,7 @@ layout: page
 title: Software
 permalink: /software/
 nav: true
-nav_order: 2
+nav_order: 3
 horizontal: false
 ---
 I have a long history of contributing to open source software, especially in the scientific Python ecosystem.

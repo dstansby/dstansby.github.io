@@ -3,7 +3,7 @@ layout: page
 title: Walking
 permalink: /walking/
 nav: true
-nav_order: 4
+nav_order: 5
 horizontal: false
 ---
 I enjoy walking, especially linking up multiple days on long distance trails.
