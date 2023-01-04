@@ -11,6 +11,10 @@ This is a list of medium - large sized projects that I would like to work on, bu
 
 ### How much CO2 does running CI on open source projects emit?
 
+### Allowing custom objects as time indices in `pandas` and `xarray` data structures
+
+### Allowing `astropy.units` to be attached to `xarray` data structures
+
 ### Building accesibility into `matplotlib` windows
 - [MacOSX backend windows have no accessibility data](https://github.com/matplotlib/matplotlib/issues/24608)
 
