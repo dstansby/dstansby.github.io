@@ -21,9 +21,8 @@ Relevant issues:
 
 ### How much CO2 does running CI on open source projects emit?
 
-### Allowing custom objects as time indices in `pandas` and `xarray` data structures
-
-### Allowing `astropy.units` to be attached to `xarray` data structures
-
-
 ### Making `astropy.units` work with type hints
+
+Relevant issues:
+- [Compound units are not valid type annotations](https://github.com/astropy/astropy/issues/14134)
+- [`quantity_input` decorator is un-typed](https://github.com/astropy/astropy/issues/14110)
