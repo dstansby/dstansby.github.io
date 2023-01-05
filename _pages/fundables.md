@@ -21,6 +21,8 @@ Relevant issues:
 
 ### How much CO2 does running CI on open source projects emit?
 
+### Documenting `reproject`
+
 ### Making `astropy.units` work with type hints
 
 Relevant issues:
