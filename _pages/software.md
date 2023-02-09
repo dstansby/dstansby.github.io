@@ -10,7 +10,7 @@ I have a long history of contributing to open source software, especially in the
 Below is a list of packages I've worked on over the years.
 
 ## [Matplotlib](https://matplotlib.org/)
-This is where I stated my adventure in open source. I filed my first feature request [in April 2016](https://github.com/matplotlib/matplotlib/issues/6272), opened my first pull request [in May 2016](https://github.com/matplotlib/matplotlib/pull/6369), and became a maintainer in January 2017. Since then I've done a wide range of fixing bugs, triaging issues, adding new features, and improving documentation. I am not currently an active maintaner, but still occasionally open bug reports and review pull requests.
+This is where I stated my adventure in open source. I filed my first feature request [in April 2016](https://github.com/matplotlib/matplotlib/issues/6272), opened my first pull request [in May 2016](https://github.com/matplotlib/matplotlib/pull/6369), and became a maintainer in January 2017. Since then I've done a wide range of fixing bugs, triaging issues, adding new features, and improving documentation. I am not currently an active maintainer, but still occasionally open bug reports and review pull requests.
 
 Recently I have taken on some freelance work to add new features to the interactive widgets. If there are larger features you're interested in seeing added, I'm currently open to taking on small freelance projects.
 
