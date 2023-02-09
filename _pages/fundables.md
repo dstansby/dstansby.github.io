@@ -21,4 +21,13 @@ Relevant issues:
 - [MacOSX backend windows have no accessibility data](https://github.com/matplotlib/matplotlib/issues/24608)
 
 
-### How much CO2 does running CI on open source projects emit?
+### How much CO2 does running continuous integration on open source projects emit?
+Here's my best guess for one months GitHub actions activity on Matplotlib:
+
+![Graph showing estimated CO2 emissions as a result of running continuous integration on the matplotlib/matplotlib repository.](/assets/img/mpl_co2.svg "Graph")
+
+The headline answer seems to be "not much".
+Every time I commute from Cambridge to London I'm responsible for ~ 8kg CO2e (see Our World in Data for [transport emissions in the UK](https://ourworldindata.org/travel-carbon-footprint)), so one person doing that eight times a month is already more than the entire CO2 emitted by Matplotlib's CI!
+
+But I'd like to make this more systematic and refine it, and maybe publish a short paper on it.
+For info on my approach so far, see the README at [dstansby/ci-impact](https://github.com/dstansby/ci-impact).
