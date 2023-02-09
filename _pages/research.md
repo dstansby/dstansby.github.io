@@ -6,6 +6,8 @@ nav: true
 nav_order: 4
 horizontal: false
 ---
+From 2015 - 2021 I led research into the atmoshphere of the Sun, also called the solar wind.
+This page lists some of the outputs of my research.
 
 ## Publications
 
