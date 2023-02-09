@@ -8,6 +8,8 @@ horizontal: false
 ---
 
 This is a list of medium - large sized projects that I would like to work on, but don't currently have funding for.
+If you know where I can get funding from to buy out my time for these, please let me know!
+As long as the money can be sent to UCL, I should be able to work on them as part of my day job.
 
 ### Building accessibility into `matplotlib` windows
 [Matplotlib](https://matplotlib.org/) has a number of interactive [backends](https://matplotlib.org/stable/users/explain/backends.html) that allow users to interact with plots.
