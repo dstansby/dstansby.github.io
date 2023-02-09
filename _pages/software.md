@@ -7,7 +7,7 @@ nav_order: 3
 horizontal: false
 ---
 I have a long history of contributing to open source software, especially in the scientific Python ecosystem.
-Below is a list of packages I've worked on over the years.
+Below is a list of packages I've worked on.
 
 ## [Matplotlib](https://matplotlib.org/)
 This is where I stated my adventure in open source. I filed my first feature request [in April 2016](https://github.com/matplotlib/matplotlib/issues/6272), opened my first pull request [in May 2016](https://github.com/matplotlib/matplotlib/pull/6369), and became a maintainer in January 2017. Since then I've done a wide range of fixing bugs, triaging issues, adding new features, and improving documentation. I am not currently an active maintainer, but still occasionally open bug reports and review pull requests.
