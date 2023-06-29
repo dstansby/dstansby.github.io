@@ -1,6 +1,6 @@
 ---
 layout: default
-title: blog
+title: Blog
 pagination:
   enabled: true
   collection: posts
@@ -14,11 +14,6 @@ pagination:
 ---
 
 <div class="post">
-
-  <div class="header-bar">
-    <h1>{{ site.blog_name }}</h1>
-    <h2>{{ site.blog_description }}</h2>
-  </div>
 
   {% if site.display_tags %}
   <div class="tag-list">
