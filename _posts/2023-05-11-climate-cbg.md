@@ -1,10 +1,9 @@
 ---
-layout: page
-title: Climate graphs
-permalink: /cambridge_climate/
-nav: true
-nav_order: 2
-horizontal: false
+layout: post
+title: Climate graphs for Cambridge
+date: 2023-05-11
+tags: climate
+related_posts: false
 ---
 We all know the climate is changing. In the UK we probably won't *directly* feel the worst of these changes, but I'm still interested in how the climate is changing where I live.
 
