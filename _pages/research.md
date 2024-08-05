@@ -6,12 +6,11 @@ nav: true
 nav_order: 4
 horizontal: false
 ---
-From 2015 - 2021 I led research into the atmoshphere of the Sun, also called the solar wind.
-This page lists some of the outputs of my research.
+From 2015 - 2021 I researched the solar wind, the extended atmoshphere of the Sun.
 
 ## Publications
 
-The definitive list can be found on ORCID: [https://orcid.org/0000-0002-1365-1908](https://orcid.org/0000-0002-1365-1908). I also maintain two astronomy data service (ADS) libraries with my **[first author papers](https://ui.adsabs.harvard.edu/#/public-libraries/SzI6nJuHTRuOsUm8dejD-Q)** and **[all my papers](https://ui.adsabs.harvard.edu/#/public-libraries/699B06FhTXeD-hhNZN-mbQ)**.
+The definitive list can be found on ORCID: [https://orcid.org/0000-0002-1365-1908](https://orcid.org/0000-0002-1365-1908). I also maintained two astronomy data service (ADS) libraries with my **[first author papers](https://ui.adsabs.harvard.edu/#/public-libraries/SzI6nJuHTRuOsUm8dejD-Q)** and **[all my papers](https://ui.adsabs.harvard.edu/#/public-libraries/699B06FhTXeD-hhNZN-mbQ)**.
 
 ## Talks & posters
 
