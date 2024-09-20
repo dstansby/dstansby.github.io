@@ -15,7 +15,7 @@ social: true  # includes social icons at the bottom of the page
 
 **Research Software Engineer**, with a specialism in building and contributing to **open source software and data communities**.
 
-- **Senior Data Scientist** (July 2023 - ) for the [Human Organ Atlas](https://mecheng.ucl.ac.uk/hip-ct/), University College London
+- **Senior Data Scientist** (2023 - ) for the [Human Organ Atlas](https://mecheng.ucl.ac.uk/hip-ct/), University College London
 - **Research Software Engineer** (2022 - 2023) at the [Center for Advanced Research Computing (ARC)](https://www.ucl.ac.uk/advanced-research-computing/), University College London.
 - **Research Fellow** (2019 - 2022) in the
 [solar physics group](https://www.ucl.ac.uk/mssl/research/solar-system/solar-physics)
