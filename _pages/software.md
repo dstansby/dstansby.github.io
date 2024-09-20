@@ -6,9 +6,19 @@ nav: true
 nav_order: 3
 horizontal: false
 ---
-I have a long history of contributing to open source software, especially in the scientific Python ecosystem.
+I have a long history of contributing to open source software, especially in the scientific Python ecosystem. Here are some of the large community packages I've worked on.
 
 # Current projects
+
+## [zarr-python](https://github.com/zarr-developers/zarr-python)
+2023 -
+
+I'm a core developer of zarr-python, and have taken the lead on user-facing improvements including adding typing to the library and adding complete API documentation.
+
+## [napari](https://napari.org/stable/)
+2022 -
+
+I've worked on and off fixing bugs and adding typing to napari, to reduce technical debt and increase maintainability.
 
 ## [Matplotlib](https://matplotlib.org/)
 2017 -
@@ -16,11 +26,6 @@ I have a long history of contributing to open source software, especially in the
 This is where I stated my adventure in open source.
 I filed my first feature request [in April 2016](https://github.com/matplotlib/matplotlib/issues/6272), opened my first pull request [in May 2016](https://github.com/matplotlib/matplotlib/pull/6369), and became a maintainer in January 2017.
 Since then I've done a wide range of fixing bugs, triaging issues, adding new features, and improving documentation.
-
-## [napari](https://napari.org/stable/)
-2022 -
-
-I've worked on and off fixing bugs and adding typing to napari, to reduce technical debt and increase maintainability.
 
 # Past projects
 
